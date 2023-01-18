@@ -1,0 +1,21 @@
+{
+  "name": "reviewscraper",
+  "version": "1.0.0",
+  "description": "Online E-Commerece Review Scraper Bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "AbhishekPaul189",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "live-server": "^1.1.0",
+    "node-html-parser": "^6.1.4",
+    "superagent": "^8.0.6"
+  },
+  "keywords": [
+    "Scraper"
+  ]
+}
